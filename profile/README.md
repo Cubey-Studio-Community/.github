@@ -1,3 +1,3 @@
-![Cubey Studio Logo](Normal&nbsp;Version&nbsp;-&nbsp;Dark.svg)
+![Cubey Studio Logo](Normal\Version\-\Dark.svg)
 
 ## Cubey Studio Community
